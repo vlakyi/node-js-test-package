@@ -1,0 +1,18 @@
+{
+  "name": "testowa-paczka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlakyi/node-js-test-package.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlakyi/node-js-test-package/issues"
+  },
+  "homepage": "https://github.com/vlakyi/node-js-test-package#readme"
+}
